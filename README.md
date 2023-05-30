@@ -3,17 +3,12 @@
 
 ### Requirements:
 
-python==3.10
-
-Flwr
-
-pandas
-
-numpy
-
-tensorflow
-
-scikit-learn
+python==3.10<br>
+Flwr<br>
+pandas<br>
+numpy<br>
+tensorflow<br>
+scikit-learn<br>
 
 
 
