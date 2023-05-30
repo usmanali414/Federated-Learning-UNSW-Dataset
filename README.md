@@ -2,12 +2,19 @@
 ## Federated Learning Simulation Code using UNSW Dataset and Flower framework(Python)
 
 ### Requirements:
+
 python==3.10
+
 Flwr
+
 pandas
+
 numpy
+
 tensorflow
+
 scikit-learn
+
 
 
 
